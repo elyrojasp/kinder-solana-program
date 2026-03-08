@@ -2,7 +2,6 @@
 Programa CRUD de estudiantes en Solana usando Anchor
 /*
 PROGRAMA: Sistema de gestión de estudiantes para un kínder en Solana
-AUTORA: Elizabeth Rojas Perez
 
 Descripción general:
 Este programa está desarrollado en Rust utilizando el framework Anchor para la blockchain de Solana.
@@ -73,9 +72,4 @@ Se utilizan códigos de error personalizados mediante `#[error_code]`
 para validar condiciones como:
 - lista llena
 - índice fuera de rango
-
-Conclusión:
-Este contrato inteligente implementa un ejemplo sencillo de almacenamiento
-y manipulación de datos en la blockchain de Solana usando Anchor. El sistema
-sigue un modelo CRUD básico utilizando vectores dentro de una cuenta de programa.
 */
